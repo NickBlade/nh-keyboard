@@ -3,7 +3,7 @@ game "common"
 
 name 'NUI Text Input'
 description "A modular, clean keyboard input for RedM & FiveM"
-author 'NickBlade#5623'
+author 'NeroHiro'
 
 ui_page "web/index.html"
 
